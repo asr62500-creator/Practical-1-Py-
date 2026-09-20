@@ -1,7 +1,7 @@
 students = {
-    "Amit": 85,
+    "Amit": 95,
     "Suman": 80,
-    "Neha": 92,
+    "Neha": 82,
     "Priya": 88
 }
 
@@ -18,7 +18,7 @@ print("\nAfter adding Rohit:")
 print(students)
 
 # 3. Update an existing value
-students["Suman"] = 85
+students["Suman"] = 89
 
 print("\nAfter updating Suman's marks:")
 print(students)
